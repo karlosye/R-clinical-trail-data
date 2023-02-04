@@ -1,6 +1,7 @@
 # R-clinical-trail-data
 A data analysis conducted on NYC clinical trial data
 
+- Dataset: Research-Analyst_16SEPT2021.xlsx
 - Data package: R
 - Variables: 
 
